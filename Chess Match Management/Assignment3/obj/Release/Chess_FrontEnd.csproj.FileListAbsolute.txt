@@ -1,0 +1,11 @@
+c:\users\ashbal\documents\visual studio 2017\Projects\Assignment3\Assignment3\bin\Release\Chess.mdf
+c:\users\ashbal\documents\visual studio 2017\Projects\Assignment3\Assignment3\bin\Release\Chess_log.ldf
+c:\users\ashbal\documents\visual studio 2017\Projects\Assignment3\Assignment3\bin\Release\Assignment3.exe.config
+c:\users\ashbal\documents\visual studio 2017\Projects\Assignment3\Assignment3\bin\Release\Assignment3.exe
+c:\users\ashbal\documents\visual studio 2017\Projects\Assignment3\Assignment3\bin\Release\Assignment3.pdb
+c:\users\ashbal\documents\visual studio 2017\Projects\Assignment3\Assignment3\obj\Release\Assignment3.Form1.resources
+c:\users\ashbal\documents\visual studio 2017\Projects\Assignment3\Assignment3\obj\Release\Assignment3.Form2.resources
+c:\users\ashbal\documents\visual studio 2017\Projects\Assignment3\Assignment3\obj\Release\Assignment3.Properties.Resources.resources
+c:\users\ashbal\documents\visual studio 2017\Projects\Assignment3\Assignment3\obj\Release\Chess_FrontEnd.csproj.GenerateResource.Cache
+c:\users\ashbal\documents\visual studio 2017\Projects\Assignment3\Assignment3\obj\Release\Assignment3.exe
+c:\users\ashbal\documents\visual studio 2017\Projects\Assignment3\Assignment3\obj\Release\Assignment3.pdb
