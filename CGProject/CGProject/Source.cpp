@@ -499,6 +499,8 @@ void pressKey(int key, int xx, int yy)
 	case GLUT_KEY_RIGHT:x-=0.2; break;
 	case GLUT_KEY_UP:deltaMove = 2; break;
 	case GLUT_KEY_DOWN:deltaMove = -2; break;
+	case GLUT_KEY_PAGE_UP:y += 0.5; break;
+	case GLUT_KEY_PAGE_DOWN:y -= 0.5; break;
 	case GLUT_KEY_F1:
 		carPos = 18;
 		x = 10;
@@ -533,7 +535,20 @@ void releaseKey(int key, int x, int y)
 	}
 }
 
-
+void keyboard1(unsigned char key, int x, int y)
+{
+	switch (key)
+	{
+	case'+':
+		ly += 0.01;
+		glutPostRedisplay();
+		break;
+	case'-':
+		ly -= 0.01;
+		glutPostRedisplay();
+		break;
+	}
+}
 
 
 
@@ -547,7 +562,7 @@ int main(int argc, char**argv)
 	glutCreateWindow("City");
 	glutDisplayFunc(cityPano);
 	initGL();
-	//glutKeyboardFunc(keyboard1);
+	glutKeyboardFunc(keyboard1);
 	glutReshapeFunc(reshape);
 	glutIdleFunc(myidlefunction);
 	glutSpecialFunc(pressKey);
