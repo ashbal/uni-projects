@@ -16,5 +16,19 @@ Controls:
 **Car Animation Scene:** F2 
 **Car Door Animation Scene:** F1 
 ## Screenshots
+![enter image description here](https://github.com/ashbal/uni-projects/blob/master/CGProject/Screenshots/1.png)
+
+![enter image description here](https://github.com/ashbal/uni-projects/blob/master/CGProject/Screenshots/2.png)
+
+![enter image description here](https://github.com/ashbal/uni-projects/blob/master/CGProject/Screenshots/3.png)
+
 
 ## Models
+
+ - 8 Buildings
+ - 2 Trucks
+ - 2 Vans
+ - 1 Super car
+ - 1 Sedan (Changable Color)
+ - 2 SUVs
+ - 1 Old Hatchback
