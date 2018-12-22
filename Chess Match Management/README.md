@@ -14,15 +14,15 @@ To run on your machine change the path for the Chess.mdf file.
 
 
 ## Screenshots
-![](https://github.com/ashbalsohail/uni-projects/blob/master/Chess%20Match%20Management/Screenshots/Capture1.PNG)
+![](https://github.com/ashbal/uni-projects/blob/master/Chess%20Match%20Management/Screenshots/Capture1.PNG)
 
-![](https://github.com/ashbalsohail/uni-projects/blob/master/Chess%20Match%20Management/Screenshots/Capture2.PNG)
+![](https://github.com/ashbal/uni-projects/blob/master/Chess%20Match%20Management/Screenshots/Capture2.PNG)
 
-![](https://github.com/ashbalsohail/uni-projects/blob/master/Chess%20Match%20Management/Screenshots/Capture3.PNG)
+![](https://github.com/ashbal/uni-projects/blob/master/Chess%20Match%20Management/Screenshots/Capture3.PNG)
 
-![](https://github.com/ashbalsohail/uni-projects/blob/master/Chess%20Match%20Management/Screenshots/Capture4.PNG)
+![](https://github.com/ashbal/uni-projects/blob/master/Chess%20Match%20Management/Screenshots/Capture4.PNG)
 
-![](https://github.com/ashbalsohail/uni-projects/blob/master/Chess%20Match%20Management/Screenshots/Capture5.PNG)
+![](https://github.com/ashbal/uni-projects/blob/master/Chess%20Match%20Management/Screenshots/Capture5.PNG)
 
 
 
